@@ -1,0 +1,28 @@
+{
+  "name": "asincronismo",
+  "version": "1.0.0",
+  "description": "trabajar con asincronismos en javascript",
+  "main": "src/index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js",
+    "callback:challenge": "node src/callback/challenge.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliol1/async-study-guide.git"
+  },
+  "keywords": [
+    "callbacks",
+    "promise",
+    "async"
+  ],
+  "author": "Juliol1",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juliol1/async-study-guide/issues"
+  },
+  "homepage": "https://github.com/juliol1/async-study-guide#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
